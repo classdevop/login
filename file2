@@ -20,5 +20,4 @@ static void checkPrime(int n){
   checkPrime(3);  
   checkPrime(17);  
   checkPrime(20);  
-}    
-}
+
